@@ -6,6 +6,9 @@ description = "ZolaNight is a zola theme inspired by tokyonight color palette"
 You can find the source code for the theme on
 [GitHub](https://github.com/mxaddict/zolanight).
 
+You can find my personal blog using this theme at
+[codedmaster.com](https://www.codedmaster.com/)
+
 ZolaNight is a dark theme for the Zola static site generator. It is inspired by
 the Tokyo Night color scheme.
 
