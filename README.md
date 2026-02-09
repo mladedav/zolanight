@@ -12,6 +12,9 @@ designed to be lightweight and focus on clear content presentation.
 Explore a live demo of the ZolaNight theme here:
 [https://zolanight.codedmaster.com](https://zolanight.codedmaster.com)
 
+You can find my personal blog using this theme at
+[codedmaster.com](https://www.codedmaster.com/)
+
 ## Features
 
 - **Dark Themes:** Offers multiple dark color schemes: `tokyonight` (default),
